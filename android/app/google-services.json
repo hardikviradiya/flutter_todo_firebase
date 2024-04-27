@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "137722420255",
+    "project_id": "todolist-ed311",
+    "storage_bucket": "todolist-ed311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137722420255:android:8902f1fd9537ae4890492a",
+        "android_client_info": {
+          "package_name": "hardik.todo.list.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137722420255-6iu9okledn6l5avpr4juhaq416m84l2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hardik.todo.list.firebase",
+            "certificate_hash": "58e7edb928cb6d36244b24e4685535ec0e35b2fa"
+          }
+        },
+        {
+          "client_id": "137722420255-39jtbmvjmuv8ce14k6occm6rofl2adia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZKS6aHOTK20BEqB_riCzr9Vn478wlyuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137722420255-39jtbmvjmuv8ce14k6occm6rofl2adia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137722420255-1hfnognjagadi2ljbblod47mrm5umepe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseAppWeb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
